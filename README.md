@@ -1,1 +1,3 @@
-## Giannis Impact Analysis
+# Giannis Antetokounmpo Impact Analysis
+
+This project dives into Giannis Antetokounmpo's impact on his team to discover how valuable of a player he is to a team's success. This project was inspired by the recent trade rumors centered around Giannis and his upcoming offseason. I wanted to figure out how valuable he could be a team to winning knowing that whatever team tries to acquire him, they will have to give up a surplus of assets. Therefore, I wanted to figure out if Giannis is worth to get rid of young talent as well as future draft capital in order to try to get a championship right away.   
