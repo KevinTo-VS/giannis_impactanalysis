@@ -1,0 +1,14 @@
+#Virtual Envs
+.venv/
+
+#Data Files
+data/*.csv
+data/*.xlsx
+
+#Python
+__pycache__/
+*.pyc
+
+#Jupyter Notebooks
+.ipynb_checkpoints/
+
