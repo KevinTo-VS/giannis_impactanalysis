@@ -41,19 +41,6 @@ Players performing above league average in both offensive and defensive rating w
 
 
 
-## Key Findings
 
-- Giannis ranks among a small group of players above league average in both offensive and defensive rating  
-- Many high-usage players provide elite offense but fall short defensively  
-- Giannis maintains strong performance on both ends, making him a rare two-way player  
-- Comparable elite players identified include Jokic, Shai Gilgeous-Alexander, and Wembanyama  
-
-
-
-## Conclusion
-
-Giannis Antetokounmpo demonstrates a rare combination of high offensive responsibility and strong defensive performance. Unlike many star players who trade off defense for offensive output, Giannis remains impactful on both ends of the floor.
-
-From a team-building perspective, this level of two-way production strongly supports the case for targeting him as a franchise-level acquisition, as he provides value without requiring defensive compensation elsewhere on the roster.
 
 
