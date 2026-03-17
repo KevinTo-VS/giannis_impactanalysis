@@ -35,10 +35,9 @@ Players performing above league average in both offensive and defensive rating w
 
 ## Project Workflow
 1. Loaded and cleaned 2025–26 NBA player data using Python  
-2. Engineered features such as PRA Rank  
-3. Applied filters for MPG and usage to isolate top contributors  
-4. Exported processed dataset to CSV  
-5. Built interactive Tableau dashboards to visualize player impact  
+2. Applied filters for MPG and usage to isolate top contributors  
+3. Exported processed dataset to CSV  
+4. Built interactive Tableau dashboards to visualize player impact  
 
 
 
